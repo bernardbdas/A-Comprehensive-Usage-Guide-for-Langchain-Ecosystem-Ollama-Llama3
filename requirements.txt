@@ -19,3 +19,9 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
+tree-sitter
+tree-sitter-languages
+playwright
+html2text
+nest-asyncio
+lxml
